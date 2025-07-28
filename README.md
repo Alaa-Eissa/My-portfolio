@@ -27,12 +27,11 @@ Faculty of Electronic Engineering – Menoufia University
 ## 🛠️ Skills
 
 ### 🔧 Technical Skills
-- **Languages:** Python, SQL  
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, OpenCV  
-- **Data Visualization:** Excel, Power Pivot  
+- **Languages:** Python, SQL,c++  
+- **Data Visualization:** Excel, Power Pivot ,power bi 
 - **Data Modeling & Cleaning**  
 - **Dashboards:** Interactive dashboards using Excel  
-- **Version Control:** Git, GitHub  
+- **Version Control:**  GitHub  
 
 ### 🤝 Soft Skills
 - Team Collaboration  
@@ -68,9 +67,7 @@ Faculty of Electronic Engineering – Menoufia University
 
 - 🔹 **Data Cleaning & Transformation**
 - 🔹 **Dashboard Building** (Excel, Power BI)
-- 🔹 **Automation Scripts** in Python
 - 🔹 **Simple Web Tools** (Front-end & Back-end)
-- 🔹 **Image Processing Applications** using OpenCV
 
 ---
 
@@ -96,7 +93,6 @@ Developed a simple platform to manage and track donations.
 
 - ✅ Certified in **Power BI** and **Freelancing** by Creativa.
 - 💻 Participated in the **ECPC** Programming Contest.
-- 🎯 Helped organize the **Control_Exhibition** university event.
 ---
 ## 📬 Contact Me
 
