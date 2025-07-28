@@ -97,8 +97,8 @@ Developed a simple platform to manage and track donations.
 ## 📬 Contact Me
 
 - 📧 Email: alaaeissa859@gmail.com
-- 💻 GitHub: [github.com/yourusername](https://github.com/Alaa-Eissa)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/%C3%A1laa-eissa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- 💻 GitHub: [https://github.com/Alaa-Eissa](https://github.com/Alaa-Eissa)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/%C3%A1laa-eissa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ](https://www.linkedin.com/in/%C3%A1laa-eissa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 
 
