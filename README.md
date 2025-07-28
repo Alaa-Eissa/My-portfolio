@@ -41,6 +41,58 @@ Faculty of Electronic Engineering – Menoufia University
 - Time Management  
 - Research Skills
 
+---
+## 💼 Work Experience
+
+### 🎓 Academic & Practical Projects
+
+- **Sales Dashboard Project**  
+  Designed an Excel dashboard showcasing KPIs such as **Total Sales**, **Revenue**, **Customer Frequency**, and **YoY Growth** using Power Pivot.
+
+- **Control_Exhibition Voting System**  
+  Developed a website for a university event to handle project voting. Managed the **back-end logic** and designed the **MySQL database schema**.
+
+- **Image Filter GUI App**  
+  Built using **Python**, **Tkinter**, and **OpenCV**. Features include **edge detection**, **image smoothing**, and **morphological transformations**.
+
+---
+
+### 🤝 Volunteering
+
+- **HR Member** – Uploder Student Activity  
+- **Participant** – ECPC (Egyptian Collegiate Programming Contest)
+
+---
+
+## 🧩 Services I Offer
+
+- 🔹 **Data Cleaning & Transformation**
+- 🔹 **Dashboard Building** (Excel, Power BI)
+- 🔹 **Automation Scripts** in Python
+- 🔹 **Simple Web Tools** (Front-end & Back-end)
+- 🔹 **Image Processing Applications** using OpenCV
+
+---
+
+## 🚀 Projects
+
+### 📊 Sales Dashboard  
+Analyzed multi-year sales data using **Power Pivot** and **interactive Excel visualizations**.
+
+### 🗳️ Control_Exhibition Voting Platform  
+Developed a web app for managing **voting processes**, **admin access**, and **user participation** for a university exhibition.
+
+### 🕌 Ramadan Donation Platform – Hackathon Project
+
+Participated in a generative AI hackathon during Ramadan.  
+Developed a simple platform to manage and track donations.  
+
+- 💡 Contributed to idea creation and basic implementation.  
+- 🛠️ Used Python and web tools to build the system.  
+- 👥 Worked as part of a collaborative team.  
+
+
+
 
  
 
