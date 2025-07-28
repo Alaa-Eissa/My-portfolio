@@ -21,8 +21,26 @@ Faculty of Electronic Engineering – Menoufia University
 
 - **Data Analysis with Power BI** – Creativa  
 - **Freelancing in Data Analysis** – Creativa  
-- **Data Analysis with Excel & Power Pivot** – *Personal Projects*  
-- **Introduction to Python** – *(If certified, specify course name/provider here)*
+- **Data Analysis with Excel & Power Pivot** – *Personal Projects*
+
+---
+## 🛠️ Skills
+
+### 🔧 Technical Skills
+- **Languages:** Python, SQL  
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, OpenCV  
+- **Data Visualization:** Excel, Power Pivot  
+- **Data Modeling & Cleaning**  
+- **Dashboards:** Interactive dashboards using Excel  
+- **Version Control:** Git, GitHub  
+
+### 🤝 Soft Skills
+- Team Collaboration  
+- Problem Solving  
+- Communication  
+- Time Management  
+- Research Skills
+
 
  
 
